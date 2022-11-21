@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669678542,
+			"expirationDate": 1669678674,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676849566.61354,
+			"expirationDate": 1676849751.530282,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sTddt94vW4X6Va90.AWWlyfCFZgD-RduEI0uzeYH52NM.BjfAk9.c8.AAA.0.0.BjfAqe.AWVuGuYsiN0"
+			"value": "0sTddt94vW4X6Va90.AWVkxIEGmQFHtYzwVM83DTmb-yw.BjfAk9.c8.AAA.0.0.BjfAtY.AWX3RNoT9U8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669073697936%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669073853632%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.11.2022 23:35 criar perfil"
+	"lastEventDate": "21.11.2022 23:37 criar perfil"
 }
